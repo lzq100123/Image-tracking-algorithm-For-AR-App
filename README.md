@@ -36,9 +36,9 @@ space - crop image, hit it again to start tracking.
 ```
 
 ## Todolist:
-1, ESM implemented √  
-2, Hibrid implemented √  
-3, Testing and Refine in process
+1. ESM implemented √  
+2. Hibrid implemented √  
+3. Testing and Refine in process
 
 
 ## Dependencies: 
