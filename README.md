@@ -39,6 +39,7 @@ space - crop image, hit it again to start tracking.
 1, ESM implemented √  
 2, Hibrid implemented √  
 3, Refine Algorithm  
+4, Arrange
 
 
 ## Dependencies: 
