@@ -1,9 +1,9 @@
 # Image-tracking-algorithm-For-AR-App
 
 ## Author:
-### [Fanghzou Xiong](https://github.com/matthewxfz),  [Zhiquan Li](http://github.com/lzq100123)  
+#### [Fanghzou Xiong](https://github.com/matthewxfz),  [Zhiquan Li](http://github.com/lzq100123)  
 
-## Status: In process  
+### Status: In process  
 
 
 ## Note
