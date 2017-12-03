@@ -7,7 +7,7 @@
 
 
 ## Note
-##### This project implements Efficient Second Order Minimization(ESM) Algorithm with an efficient way in paper[1] , and a Hibrid Algorithm using ESM and OF proposing in paper[2], with python and cython. The OF algorithm is directly using function from OpenCV3.  
+##### This project implements Efficient Second Order Minimization(ESM) Algorithm with an efficient way in paper[1] , and a Hibrid Algorithm using ESM and OF proposing in paper[2], with python and cython. The OF algorithm is directly using function from OpenCV3. We have a report describing implmentaiton details in ./doc
 
 ## ESM
 ##### To run th#e ESM program, simply clone the program, run ./src/EsmTracker.py, using the command below to play with it:
