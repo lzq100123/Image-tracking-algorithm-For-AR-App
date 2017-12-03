@@ -26,7 +26,7 @@ h - help
 ```
   
 ##### * You basicly need to crop every time for tracking template before tracking.
-##### * The window are packed together needs to be rearranged.
+##### * The window packed together needs to be rearranged.
 
 ## Hibrid Algorithm
 Run ./src/Hibridy.py
