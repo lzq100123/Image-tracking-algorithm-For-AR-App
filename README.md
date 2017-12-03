@@ -3,7 +3,7 @@
 ## Author:
 ### [Fanghzou Xiong](https://github.com/matthewxfz),  [Zhiquan Li](http://github.com/lzq100123)  
 
-##Status: In process  
+## Status: ###In process  
 
 
 ## Note
@@ -25,8 +25,8 @@ r - test draw rectangle
 h - help  
 ```
   
-#### * You basicly need to crop every time for tracking template before tracking.
-#### * The window are packed together needs to be rearranged.
+##### * You basicly need to crop every time for tracking template before tracking.
+##### * The window are packed together needs to be rearranged.
 
 ## Hibrid Algorithm
 Run ./src/Hibridy.py
@@ -36,17 +36,17 @@ space - crop image, hit it again to start tracking.
 ```
 
 ## Todolist:
-1, ESM implemented √
-2, Hibrid implemented √
-3, Refine Algorithm
+1, ESM implemented √  
+2, Hibrid implemented √  
+3, Refine Algorithm  
 
 
 ## @dependencies: 
-#### OpenCV3 3.1.0, python 2.7.0.
+##### OpenCV3 3.1.0, python 2.7.0.
 
 
 ## Refference:
-#### [1] S. Benhimane I.N.R.I.A. France, E. Malis I.N.R.I.A. France, Real-time image-based tracking of planes using efficient second-order minimization.
+##### [1] S. Benhimane I.N.R.I.A. France, E. Malis I.N.R.I.A. France, Real-time image-based tracking of planes using efficient second-order minimization.
 
-#### [2] Ievgen M. Gorovyi, Dmytro S. Sharapov. Advanced image tracking approach for augmented reality applications
+##### [2] Ievgen M. Gorovyi, Dmytro S. Sharapov. Advanced image tracking approach for augmented reality applications
 
