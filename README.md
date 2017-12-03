@@ -42,7 +42,8 @@ space - crop image, hit it again to start tracking.
 
 
 ## Dependencies: 
-##### OpenCV3 3.1.0, python 2.7.0.
+##### * OpenCV3 3.1.0  
+##### * python 2.7.0.
 
 ## Demo
 <a href="https://youtu.be/k-OKT9mJxOA" target="_blank"><img src="https://00e9e64bac987e1aa0971205ff348b7a7f98dbc0eb4a57f984-apidata.googleusercontent.com/download/storage/v1/b/cs522image/o/youtube.png?qk=AD5uMEvDcQLScvXYvHR7ui8mjoiROVIQ9nph4qbrNQLPHlcXMPrrY1KVQsI6pwBchBiw83O8VhRHdnxbkzosVgOugEScYyKxRXgoPe9p4e5k3vWPoU-0PhaPbdkT9IKh_mSgH3xizjZ3TWbFJmv8_azvjrcq6MLNwlUb7HfFa2azmm4vBxD7jSRRWRCsVfBX04zMBsHHzf7x83glyxt-v7AN3nJ4W5J_BjubRr4z40xGLXeyMeQ-dqQ-X3pbLSPh43dLzdj0lPKjGYhMgLBwEERQSNJjmJhulrmhIPdB-fNL3QM48J0mlGjKm0zvSyR7wt16KBi_pcXpxbWLXRMj1bKT39oBL2xdNjm_u5rNVkp-9yJfc7ZjuL1CT6qhhNIiYw7Fx_1ZOnKsizN3mRRk9QrR506fVVFY16hV9aI8xgEOzhhGxW6miLkSSSUwXedMtnJkI7Cx-t7S8ijrIiT0QEQ3yPLNJqIgkrsE5qt9GEH1EVFmbuu6TYWbWnXUGLMBZkiw_PLzEdLryiKOg0I_3n903-5xtJiS8YpD_h2zAJWezw_N8ZkY_qRG2kFLnsHoq8QwR6mCSBJaAEBX_mrt_Q7P5shSbwiQJNQ8n4VzfYeiB6YA35ysgTmA46E4N44VW_9IkL8TeQ0oivnv1_0jN3l3sOvr6zMx15alJIzQSWJ1WxZYd2D3TxZONbIrTzg8L3gLt_nKkuHx0bIXgNYUAZ8CNOVnAg9rn-x159fexhpkfyhQMBDyrac" 
