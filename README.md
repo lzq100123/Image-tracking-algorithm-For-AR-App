@@ -1,26 +1,26 @@
 # Image-tracking-algorithm-For-AR-App
 
-@Author Fanghzou Xiong, Zhiquan Li
-@Email fxiong4@hawk.iit.edu,  zli175@hawk.iit.edu 
-@Status: In process
+@Author Fanghzou Xiong, Zhiquan Li  
+@Email fxiong4@hawk.iit.edu,  zli175@hawk.iit.edu   
+@Status: In process  
 
 
 #Note
-This project implements Efficient Second Order Minimization(ESM) Algorithm with an efficient way in paper[1] , and a Hibrid Algorithm using ESM and OF proposing in paper[2], with python and cython. The OF algorithm is directly using function from OpenCV3.
+This project implements Efficient Second Order Minimization(ESM) Algorithm with an efficient way in paper[1] , and a Hibrid Algorithm using ESM and OF proposing in paper[2], with python and cython. The OF algorithm is directly using function from OpenCV3.  
 
 #ESM
 To run th#e ESM program, simply clone the program, run ./src/EsmTracker.py, using the command below to play with it:
-Usage:
-i - reaload
-w - save to file out<x>.jpg
-o - crop the image as template and show ORB
-e - crop the image as template and do esm tracking
-f - crop the image as template and do OF tracking 
-k - crop the image as template and do hybird algorithm tracking
-c - crop the image only
-w - test warp image
-r - test draw rectangle 
-h - help
+Usage:  
+i - reaload  
+w - save to file out<x>.jpg  
+o - crop the image as template and show ORB  
+e - crop the image as template and do esm tracking  
+f - crop the image as template and do OF tracking   
+k - crop the image as template and do hybird algorithm tracking  
+c - crop the image only  
+w - test warp image  
+r - test draw rectangle   
+h - help  
   
 * You basicly need to crop every time for tracking template before tracking.
 * The window are packed together needs to be rearranged.
