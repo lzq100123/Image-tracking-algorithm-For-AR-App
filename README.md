@@ -1,16 +1,17 @@
 # Image-tracking-algorithm-For-AR-App
 
-##Author: [Fanghzou Xiong](https://github.com/matthewxfz)  
-          [Zhiquan Li](http://github.com/lzq100123)  
+## Author:
+### [Fanghzou Xiong](https://github.com/matthewxfz)  
+### [Zhiquan Li](http://github.com/lzq100123)  
 
 ##Status: In process  
 
 
-#Note
-##This project implements Efficient Second Order Minimization(ESM) Algorithm with an efficient way in paper[1] , and a Hibrid Algorithm using ESM and OF proposing in paper[2], with python and cython. The OF algorithm is directly using function from OpenCV3.  
+# Note
+### This project implements Efficient Second Order Minimization(ESM) Algorithm with an efficient way in paper[1] , and a Hibrid Algorithm using ESM and OF proposing in paper[2], with python and cython. The OF algorithm is directly using function from OpenCV3.  
 
-#ESM
-##To run th#e ESM program, simply clone the program, run ./src/EsmTracker.py, using the command below to play with it:
+# ESM
+### To run th#e ESM program, simply clone the program, run ./src/EsmTracker.py, using the command below to play with it:
 ```bash
 Usage:  
 i - reaload  
@@ -25,28 +26,28 @@ r - test draw rectangle
 h - help  
 ```
   
-* You basicly need to crop every time for tracking template before tracking.
-* The window are packed together needs to be rearranged.
+### * You basicly need to crop every time for tracking template before tracking.
+### * The window are packed together needs to be rearranged.
 
-#Hibrid Algorithm
+# Hibrid Algorithm
 Run ./src/Hibridy.py
 ```bash
 Usage:
 space - crop image, hit it again to start tracking.
 ```
 
-##Todolist:
+## Todolist:
 1, ESM implemented √
 2, Hibrid implemented √
 3, Refine Algorithm
 
 
-#@dependencies: 
-###OpenCV3 3.1.0, python 2.7.0.
+# @dependencies: 
+### OpenCV3 3.1.0, python 2.7.0.
 
 
-#Refference:
-###[1] S. Benhimane I.N.R.I.A. France, E. Malis I.N.R.I.A. France, Real-time image-based tracking of planes using efficient second-order minimization.
+# Refference:
+### [1] S. Benhimane I.N.R.I.A. France, E. Malis I.N.R.I.A. France, Real-time image-based tracking of planes using efficient second-order minimization.
 
-###[2] Ievgen M. Gorovyi, Dmytro S. Sharapov. Advanced image tracking approach for augmented reality applications
+### [2] Ievgen M. Gorovyi, Dmytro S. Sharapov. Advanced image tracking approach for augmented reality applications
 
